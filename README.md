@@ -1,7 +1,7 @@
-# Hi 👋 I'm Shibajee Patra
+# Hi 👋 I'm Jutu Shibajee Patra
 
-🚀 AI & Machine Learning Developer from India  
-🎓 Exploring Deep Learning, Computer Vision, NLP & Big Data  
+🚀 AI & Machine Learning/ Deep LearningDeveloper from India  
+🎓 Exploring ML/DL models who practically apply on Computer Vision, NLP & Big Data  
 🔬 Research-focused mindset with strong mathematical foundations  
 
 ---
@@ -20,10 +20,14 @@
 
 **Languages & Tools**
 - Python
-- NumPy / Pandas
-- PyTorch / TensorFlow
-- OpenCV
-- Scikit-learn
+- R
+- SQL
+- MATLAB
+- NumPy / Pandas / matplotblib /seaborn
+- flask
+- Scikit-learn / PyTorch / TensorFlow / Keras / NetworkX
+- XGBoost / Hugging Face Transformers 
+- OpenCV / NLTK 
 - Git & GitHub
 
 **Domains**
