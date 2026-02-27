@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi 👋 I'm Shibajee Patra
 
-<!--
-**sibajee1/sibajee1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 AI & Machine Learning Developer from India  
+🎓 Exploring Deep Learning, Computer Vision, NLP & Big Data  
+🔬 Research-focused mindset with strong mathematical foundations  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+- 🔭 Currently working on Deep Learning & Computer Vision projects
+- 🧪 Exploring DINOv3 and self-supervised learning
+- 📊 Experienced in Data Analysis & Big Data Analytics
+- 🤖 Strong interest in Graphical Models & Probabilistic ML
+- 🎯 Aspiring AI Researcher
+
+---
+
+## 🛠 Tech Stack
+
+**Languages & Tools**
+- Python
+- NumPy / Pandas
+- PyTorch / TensorFlow
+- OpenCV
+- Scikit-learn
+- Git & GitHub
+
+**Domains**
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- NLP
+- Big Data Analytics
+- Data Science
+
+---
+
+## 📈 GitHub Stats
+
+![Shibajee's GitHub stats](https://github-readme-stats.vercel.app/api?username=sibajee1&show_icons=true&theme=default)
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/jutu-shibajee-patra-24311319b
+- Portfolio: https://sibajee1.github.io/jutushibajeepatra/
+- Email: sibajeesibajee@gmail.com
