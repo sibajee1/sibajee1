@@ -36,11 +36,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![Shibajee's GitHub stats](https://github-readme-stats.vercel.app/api?username=sibajee1&show_icons=true&theme=default)
-
----
 
 ## 📫 Connect With Me
 
